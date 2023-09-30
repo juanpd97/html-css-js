@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.contenedor{
+    background-color: white;
+    border-radius: 15%;
+    height: 30vh;
+    width: 50vh;
+}
+
+p{
+    font-size: 35px;
+}
+
+button{
+    border-radius: 20%;
+    padding: 5px;
+    width: 65px;
+    font-size: large;
+}
+
+button:hover{
+    background-color: rgb(165, 165, 165);
+}
+
+button:active{
+    background-color: rgb(53, 53, 53);
+}
+
