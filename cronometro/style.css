@@ -23,3 +23,9 @@ body{
 .botones{
     margin-top: 15px;
 }
+
+.botones button{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(196, 196, 196);
+}
